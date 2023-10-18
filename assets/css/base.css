@@ -16,7 +16,6 @@ h1 {
 .events {
     width: 80%;
     background-color: #5E17EB;
-    border-radius: 15px;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
